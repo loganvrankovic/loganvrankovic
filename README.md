@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @loganvrankovic
 - 📫 How to reach me: loganvrankovic@gmail.com
-- 🔨 Currently working on rebuilding nyccms.com
